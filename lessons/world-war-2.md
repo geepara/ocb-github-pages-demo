@@ -1,6 +1,6 @@
 ---
 title: A Brief History of World War 2
-description: This is a calculus 1 lesson
+description: This is a quick world war 2 lesson.
 ---
 
 # Welcome to a brief history of WWII!
