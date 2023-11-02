@@ -14,3 +14,12 @@ Germany was part of the bad guys
 We won!
 
 TODO: Insert a quiz component here
+
+{% quiz answer=2 %}
+
+# Who won?
+
+- Germany
+- US
+
+{& /quiz %}
