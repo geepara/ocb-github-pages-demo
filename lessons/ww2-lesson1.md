@@ -1,6 +1,6 @@
 ---
 title: "World War 2: Prelude to War"
-description: WW2 Lesson 1.
+description: WW2 Lesson 1
 ---
 
 In this first lesson, we delve into the complex and turbulent period that paved the way for the outbreak of the Second World War. The aftermath of World War I left a legacy of political, economic, and social turmoil, creating a fertile ground for the rise of totalitarian regimes across Europe. We will explore the pivotal Treaty of Versailles, whose controversial terms and repercussions profoundly influenced the interwar period. The lesson then shifts focus to the ascent of dictatorial leaders such as Adolf Hitler in Germany, Benito Mussolini in Italy, and Joseph Stalin in the Soviet Union, examining how their ideologies and actions contributed to the growing tensions in Europe. Finally, we address the policy of appeasement practiced by major powers like Britain and France and its role in emboldening aggressive moves by Nazi Germany, setting the stage for the largest and most devastating conflict in human history. This lesson aims to provide a comprehensive understanding of the multifaceted factors that led to the ignition of World War II.
@@ -49,6 +49,6 @@ This policy of appeasement, while intended to maintain peace, ultimately embolde
 
 In conclusion, Lesson 1 illustrates how the complex interplay of the Treaty of Versailles' repercussions, the rise of totalitarian regimes, and the policy of appeasement set a precarious stage for global conflict. As we transition into Lesson 2, we will witness how these elements culminated in the eruption of World War II, beginning with the pivotal event of Germany's invasion of Poland in 1939, marking the descent of the world into unprecedented chaos and warfare.
 
-{% next_lesson %}
+{% next_lesson link="ww2-lesson2" %}
 World War 2: The War Breaks Out
 {% /next_lesson %}

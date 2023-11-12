@@ -9,15 +9,15 @@ In Lesson 2, we delve into the critical moments that marked the official outbrea
 
 The first topic in Lesson 2 revolves around the momentous event of Nazi Germany's invasion of Poland on September 1, 1939, an aggressive act that directly precipitated the outbreak of World War II. This invasion, employing a strategy known as Blitzkrieg or 'lightning war', involved rapid, coordinated attacks by air and ground forces, overwhelming the Polish defenses. The swift and brutal nature of this assault not only marked a devastating beginning to the war but also forced Britain and France to act on their commitments to Poland, leading them to declare war on Germany on September 3, 1939. This marked the end of a period of tentative peace in Europe and the beginning of a widespread and destructive global conflict.
 
-### Blitzkrieg and Early German Victories
-
-The second topic of Lesson 2 focuses on the concept of Blitzkrieg, a revolutionary form of warfare pioneered by Germany at the beginning of World War II. This tactic, characterized by rapid, surprise attacks combining air and ground forces, was first employed with devastating effectiveness in Poland and later in the invasions of Western European countries like the Netherlands, Belgium, and France. The early phase of the war saw German forces achieving swift and unprecedented victories, culminating in the shocking fall of France in June 1940. These early successes not only demonstrated the lethal efficacy of Blitzkrieg but also drastically altered the strategic landscape of the war, stunning the Allied powers and reshaping their military strategies in response to this new form of warfare.
-
 {% fun_fact %}
 
 The speed and success of Germany's Blitzkrieg strategy in the early stages of World War II took even the German high command by surprise. While Blitzkrieg was designed for rapid and decisive victories, its overwhelming effectiveness in the swift fall of countries like France, which was conquered in just six weeks, was not fully anticipated. This unexpected success can be partially attributed to the innovative combination of armored warfare, air support, and mobile infantry, which many opposing forces were not prepared to counter at the time. This rapid series of victories not only shocked the world but also significantly boosted German morale and confidence in their military strategy during the early phase of the war.
 
 {% /fun_fact %}
+
+### Blitzkrieg and Early German Victories
+
+The second topic of Lesson 2 focuses on the concept of Blitzkrieg, a revolutionary form of warfare pioneered by Germany at the beginning of World War II. This tactic, characterized by rapid, surprise attacks combining air and ground forces, was first employed with devastating effectiveness in Poland and later in the invasions of Western European countries like the Netherlands, Belgium, and France. The early phase of the war saw German forces achieving swift and unprecedented victories, culminating in the shocking fall of France in June 1940. These early successes not only demonstrated the lethal efficacy of Blitzkrieg but also drastically altered the strategic landscape of the war, stunning the Allied powers and reshaping their military strategies in response to this new form of warfare.
 
 ### Expansion Beyond Europe
 
@@ -47,6 +47,6 @@ The third topic in Lesson 2 examines the expansion of World War II beyond the bo
 
 Lesson 2 highlights the dramatic early successes of the Axis powers, led by Germany's blitzkrieg tactics and the expansion of the conflict into a global war. As we transition into Lesson 3, we will explore the pivotal turning points and major battles that marked the shift in momentum towards the Allies, leading to the eventual downfall of the Axis powers and the profound aftermath of this devastating conflict.
 
-{% next_lesson %}
+{% next_lesson link="ww2-lesson3" %}
 World War 2: Shifting Frontlines and the Final Countdown in World War II
 {% /next_lesson %}
