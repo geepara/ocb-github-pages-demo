@@ -25,8 +25,8 @@ export default function QuizQuestion({ answer, children }: QuizQuestionProps) {
   };
 
   return (
-    <div className="flex flex-col gap-4 border rounded-lg p-4 my-4">
-      <div className="font-semibold text-purple-800">{question}</div>
+    <div className="flex flex-col gap-4 border rounded-lg drop-shadow-md bg-white p-4 my-4">
+      <div className="font-semibold text-green-700">{question}</div>
       <div className="flex flex-col gap-2">
         {options.map((option: string, index: number) => (
           <button
